@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafizh Muhammad Azhar</h1>
+<h1 align="center">Hi 👋, my name is Hafizh Muhammad Azhar</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hafizh-muhammad-azhar-a91a5120a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizh-muhammad-azhar-a91a5120a" height="30" width="40" /></a>
