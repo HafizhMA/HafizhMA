@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafizh Muhammad Azhar</h1>
+<h1 align="center">Hi 👋, My Name Is Hafizh Muhammad Azhar</h1>
 <h3 align="center">I am an Informatics Engineering student with a passion for web development. I am dedicated to consistently improving my programming skills and solving complex problems through practical, hands-on projects. My focus is on both frontend and backend development. I am proficient in using React.js and Tailwind CSS for frontend development, and Express.js for backend development. For databases, I have experience working with MySQL and PostgreSQL.</h3>
 
 <h3 align="left">Connect with me:</h3>
